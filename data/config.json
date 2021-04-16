@@ -1,0 +1,23 @@
+{
+  "mqtt": {
+    "hostname": "546.lan",
+    "port": 8883
+  },
+  "config_mode": true,
+  "gpio": {
+    "up": 5,
+    "down": 4,
+    "stop": 14,
+    "lock": 12
+  },
+  "wifi": {
+    "credentials": {
+      "ssid": null,
+      "password": null
+    },
+    "config_ap": {
+      "ssid": "TECHDOOR",
+      "password": "techdoor123"
+    }
+  }
+}
